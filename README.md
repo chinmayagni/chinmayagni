@@ -5,7 +5,6 @@
 * I'm currently exploring the vast world of Java and JavaScript. 
 Focused on improving my code quality, enhancing problem-solving skills, and adhere to developing consistency and excellence in writing code.
 
-* Apart from writing code, I enjoy watching and [photographing](https://www.instagram.com/chinmay_agnihotri/) wildlife 🐯🦏🦜🦢🦅, reading 📖 📚 and 🚘 road trips!
 
 * 👯‍♀️ I'm looking for beginner-friendly collaborations on Github!
 
